@@ -1,4 +1,9 @@
+# 🔢✨ AUTO NUMBERED LIST MAKER ✨🔢
 
+Ever typed out lists manually and lost track of the numbering?  
+This Python script turns **any comma-separated input** into a **clean, auto-numbered list** — instantly!
+
+---
 
 ## 🔍 What’s Inside
 - **📥 Easy Input** → Enter items separated by commas.  
